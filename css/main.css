@@ -449,3 +449,10 @@ label {
 .portfolio .card {
   overflow: hidden;
   padding: 0 0 2rem 0; }
+
+.flower {
+  overflow: auto; }
+
+  html,body {
+    width: 100%;
+    overflow-x: hidden; }
