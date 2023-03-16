@@ -63,7 +63,11 @@ a {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
-    flex-direction: row; } }
+    flex-direction: row; } 
+  
+  
+  }
+
 
 .ac {
   -webkit-box-align: center;
@@ -77,6 +81,27 @@ a {
 
 .code {
   margin: auto; }
+
+
+  @media screen and (max-width : 400px)                   /* code to solve the white space problem --> Ayush Agarwal*/
+{
+  .test
+  {
+    overflow: auto;
+  }
+  .code
+  {
+    width: fit-content;
+  }
+  .ac
+  {
+    -webkit-box-align:unset;
+    -ms-flex-align:unset;
+    align-items:unset; 
+
+  }
+
+}
 
 pre {
   background: #0D0D0D;
