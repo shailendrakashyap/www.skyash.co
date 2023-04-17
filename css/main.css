@@ -450,12 +450,17 @@ label {
   overflow: hidden;
   padding: 0 0 2rem 0; }
 
-.flower {
-  overflow: auto; }
-
 .menu {
     display: inherit;
     overflow: auto; }
+
+@media screen and (max-width : 420px) {
+    .ac {
+      align-items: unset; }
+    .code {
+      width: fit-content; } 
+    .flower {
+      overflow: auto; } }
 
   html,body {
     width: 100%;
