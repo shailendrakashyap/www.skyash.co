@@ -453,6 +453,8 @@ label {
 .menu {
     display: inherit;
     overflow: auto; }
+.blog {
+  text-weight: bold; }
 
 @media screen and (max-width : 420px) {
     .ac {
