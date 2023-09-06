@@ -1,6 +1,6 @@
 # Welcome to www.skyash.co contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to my project! Any contribution you make will be reflected on [www.skyash.co](https://www.skyash.co) :sparkles:.
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [www.skyash.co](https://www.skyash.co) :sparkles:.
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
